@@ -6,3 +6,5 @@ on:
 jobs:
   pkgs-test:
     uses: RT-Thread/pkgs-test/.github/workflows/pkgs-action.yml@main
+    with:
+        qemu-check: true

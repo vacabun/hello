@@ -1,0 +1,8 @@
+{
+    "hello": {
+        "latest": {
+            "input": [],
+            "output": "hello package initialized."
+        }
+    }
+}
